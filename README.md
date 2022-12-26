@@ -18,6 +18,8 @@ In project this I have Learned:
 * How to create direct Segues for navigation.
 
 
+Thank You for reading;  // :)
+
 App preview From Course:
 
 <img src="https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif" align="left" height="500">
